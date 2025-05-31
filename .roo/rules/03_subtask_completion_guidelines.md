@@ -1,0 +1,3 @@
+# Subtask Completion Guidelines
+
+When a subtask is completed, the `attempt_completion` tool MUST be used to present the result. The `result` parameter of the `attempt_completion` tool MUST contain the *entire* output or summary of the subtask's work, including any data, overviews, or generated content. It is NOT sufficient to merely state that the subtask has been completed; the full, relevant output must be embedded within the `result` tag. This ensures that the parent task receives all necessary information directly and explicitly.
