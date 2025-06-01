@@ -2,6 +2,8 @@
 
 This repository implements **LifeOS**, a generic personal “operating system” framework designed to help users manage their aspirations, goals, commitments, skills, network, resources, and overall system adaptation. LifeOS is organized into eight core modules (A–H) and two special modes: `lifeos-onboarding` and `lifeos-orchestrator`.
 
+Join our community on Discord: [https://discord.gg/HnYu6KhzMU](https://discord.gg/HnYu6KhzMU)
+
 ## How to Use RooLifeOS
 
 Getting started with RooLifeOS is straightforward:
